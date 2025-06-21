@@ -1,8 +1,8 @@
 /* Global styles */
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  /* background: linear-gradient(to right, #83a4d4, #b6fbff); */
-  background: #005dc1;
+  background: linear-gradient(to right, #83a4d4, #b6fbff);
+  /* background: #005dc1; */
   margin: 0;
   padding: 0;
   display: flex;
